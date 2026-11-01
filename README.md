@@ -1,2 +1,4 @@
-# dantelemes0-rgb.github.io
-Novela Quiz Studio - site oficial, termos e privacidade
+﻿# Novela Quiz Studio — site oficial
+
+Site público, Termos de Serviço, Política de Privacidade e demonstração do Quiz 2D.
+
